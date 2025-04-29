@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Build artifacts
+build/
+dist/
+opt/
+desktop-entries/
+
+# AppImage output
+*.AppImage
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Backup files
+*~
+*.swp
+*.swo
+
+# Make artifacts
+*.o
+*.out
+
+# Other
+/desktop-entries
+/opt
+/user-data
+/build
+/apps.json

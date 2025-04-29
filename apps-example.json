@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Telegram",
+    "url": "http://web.telegram.org",
+    "icon": "telegram",
+    "app_name": "telegram",
+    "category": "Network;InstantMessaging",
+    "description": "Chat via Telegram Web",
+    "skip": true
+  },
+  {
+    "name": "WhatsApp",
+    "url": "https://web.whatsapp.com",
+    "icon": "whatsapp",
+    "app_name": "whatsapp",
+    "category": "Network;InstantMessaging",
+    "description": "Send and receive messages with WhatsApp Web",
+    "skip": false
+  },
+  {
+    "name": "RegEx101",
+    "url": "https://regex101.com",
+    "icon": "regex101",
+    "app_name": "regex101",
+    "category": "Development;Utility",
+    "description": "Test and debug regular expressions",
+    "skip": false
+  }
+]
